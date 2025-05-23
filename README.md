@@ -35,7 +35,7 @@ This project uses an Artificial Neural Network (ANN) built in TensorFlow to clas
 ## 🧪 Results
 
 <p align="center">
-  <img src="images/accuracy_loss_plot.png" alt="Accuracy and Loss Plot" width="600">
+  <img src="accuracy_loss_plot.png" width="600">
 </p>
 
 - **Validation Accuracy**: ~97%
